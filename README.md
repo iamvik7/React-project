@@ -1,2 +1,2 @@
 # React-project
-this is the basic react project.
+This is the basic react project.
