@@ -1,6 +1,6 @@
 //variables
-let a = 201;
-let b = 301;
+let a = 101;
+let b = 101;
 
 // function two find products of two numbers
 function findProduct(a, b) {
