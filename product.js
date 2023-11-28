@@ -4,8 +4,7 @@ let b = 131;
 
 // function two find products of two numbers
 function findProduct(a, b) {
-  const prod = a * b;
-  return prod;
+  return a * b; 
 }
 
 //calling the function 
