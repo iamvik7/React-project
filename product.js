@@ -1,5 +1,5 @@
 //variables
-let a = 185;
+let a = 85;
 let b = 21;
 
 // function two find products of two numbers
