@@ -7,6 +7,18 @@ function findProduct(a, b) {
   return a * b;
 }
 
+function findDivision(a, b) {
+  if(a > b && a > 0 && b > 0) {
+    return a/b;
+  } else if(b > a && a > 0 && b > 0) {
+    return b/a;
+  }
+}
+
+// calling division fuction
+let divisionAns = findDivision(a, b);
+  
+
 //calling the function 
 let ans = findProduct(a, b);
 
